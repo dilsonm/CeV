@@ -1,0 +1,39 @@
+Ex: 28
+O usuário vai pensar em um numero e o computador vai gerar um aleatório 
+entre 1 e 5, depois verifique se acertou ou errou
+
+Ex.: 29 
+Escreva um programa que leia a velocidade de um carro.
+Se ele ultrapassar 80km p/hora. mostre uma mensagem dizendo que ele
+foi multado.
+A multa vai custar R$7,00 por cada KM acima do limite
+
+ex.: 30
+Crie um programa que leia um numero qualquer e mostre na tela se ele é
+par ou impar
+
+ex.: 31
+Desenvolva um programa que pergunte a distancia de viagem em KM.
+Calcule o preco da passagem, cobrando R$0,50 por km, para viagens até 200km e
+$R045 para viagens mais longas.
+
+Ex.: 32
+Faça um programa que leia um ano qualquer e mostre na tela se é BISSEXTO
+
+Ex.: 33
+Faça um programa que leia três números e mostre na tela qual é o MAIOR e qual é o MENOR
+
+Ex.: 34
+Escreva um programa que pergunte o salário de um funcionário e calcule o
+valor do seu aumento.
+Para salários superiores a R$1.200,00, calcule um aumento de 10%
+Para salários inferiores ou iguáis, o aumento é de 15%
+
+Ex.: 35
+Desenvolva um programa que leia o comprimento de três retas e diga ao usuário
+se elas podem ou não formar um triangulo.
+
+Ex.: 36 
+Colocar cores nos exercícios anteriores, no mínimo 5 exercícios
+
+

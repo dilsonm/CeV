@@ -1,0 +1,27 @@
+#72
+Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero ate vinte.
+Seu programa devera ler um numero pelo teclado (entre 0 e 20) e mopntra-lo por extenso.
+
+#73
+Crie uma tupla preenchida com os 20 primeiros colocados da tabela do campeonato brasileiro de futebol, na ordem de colocação. Depois mostre:
+a) Apenas os 5 primeiros colocados
+b) Os ultimos 4 colocados. 
+c) Uma lista com os times em ordem alfabética.
+d) Em que posição na tabela esta o time da chapecoense.
+
+#74
+Crie um programa que vai gerar cinco numeros aleatoriamente e colocar em uma tupla.
+Depois disso, mostre a listagem de numeros gerados e trambem indique o menor e o maior valor que estao na tupla
+
+#75
+Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla, No final,mostre:
+a) Quantas vezes apareceu o numero 9.
+b) Em que posição foi digitado o primeiro valor 3.
+c) Quais foram os números pares.
+
+#76 
+Crie um programa que tenha uma tupla unica com nomes de produtos e seus respecctivos precos, na sequencia.
+No final mostre uma listagem de preços, organizando os dados em forma tabular
+
+#77
+Crie um programa que tenha uma tupla com varias palavras (não usar acentos). Depois disso, voce deve mostrar, para cada palavra, quais são as suas vogais.

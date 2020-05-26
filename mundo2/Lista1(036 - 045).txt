@@ -1,0 +1,71 @@
+#36
+Escreve um programa para aprovar o emprestimo bancario para compra de uma casa.
+O programa vai perguntar o valor do imovel, o salario do comprador e em quantos anos ele quer pagar
+Calculo o valor da prestacao mensal, sabendo que ela não pode exceder 30% do valor do salário ou entao o emprestimo sera negado.
+
+#37
+Escreva um programa que leia um numero inteiro qualquer e peca para o usuario escolher qual a base de conversao: 1) Binario, 2)Octal e 3)Hexadecimal
+
+#38
+Escreva um programa que leia dois numeros inteiros e compare-os, monstrando na tela uma mensagem: 
+1) O primeiro valor é maior 
+2) O segundo valor é maior  
+3) nao existe valor maior, os dois são iguais
+
+#39
+Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
+- Se ele ainda vai se alistar ao serviço militar
+- Se e a hora de se alistar ao servico militar
+- Se já passou do tempo de alistamento ao serviço militar
+(*) Seu programa também devera mostrar quanto tempo falta ou o que passou do tempo
+
+#40
+Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida.
+- Média abaico de 5.0 = REPROVADO
+- Média entre 5.0 e 6.9 - EM RECUPERAÇÃO
+- Média acima de 7 = APROVADO.
+
+#41
+A confederacao nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostra sua categoria de acordo com sua idade:
+- Até 9 anos = Mirim
+- Até 14 anos = infantil
+- Até 19 anos = Junior
+- Até 20 anos = Senior
+- Acima = Master
+
+#42
+Refaço o exercicio 035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo será formado:
+- Equilátero = os 3 lados iguais
+- Isósceles = 2 lados iguais
+- Escaleno = todos os lados diferentes
+
+#43
+Desenvolva uma lógica, que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status de acordo com a tabela abaixo:
+- Abaixo de 18.5 = Abaixo do peso
+- Acima 18 e  menor ou igual a 25 = Peso ideal
+- Acima 25 e menor ou igual a 30 = Sobrepeso
+- Acima de 30 e menor ou igual a 40 = Obesidade
+- Acima de 40 = obesidade morbida
+
+#44
+Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preco normal, e condiçoes de pagamento:
+- A vista dinheiro / cheque = 10% de desconto
+- A vista no cartão = 5% de desconto
+- Em até 2x no cartão = preço normal
+- 3x ou mais no cartão = 2-% de juros
+
+#45
+Crie um programa que faça o computador jogar JOKENPO com você
+1-Pedra
+2-Papel
+3-Tesoura
+
+1 e 1, 2 e 2, 3 e 3 = Empate
+1 e 2 = 2 ganha
+1 e 3 = 1 ganha
+2 e 3 = 3 ganha
+2 e 1 = 2 ganha
+3 e 1 = 1 ganha 
+3 e 2 = 3 ganha
+
+

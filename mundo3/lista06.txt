@@ -1,0 +1,27 @@
+101
+Crie um programa que tenha uma funcao chamada voto() que vai receber como parametro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL ou OBRIGATORIO nas eleicoes
+
+102
+crie um programa qye tenha yuma funncao fatorial() que recevaa dois paramnetros: o primeiro que indique o umero a calcular e o outro chamado show, que sera um valor lógico(opcional) indicando se sera mostrado ou nao na tela o processo de calculo do fatorial.
+
+103
+faca um programa que tenha uma funcao chamada ficha(), que receba dois parametros opcionais: o nome de um jjogador e quantos gols ele marcou.
+O programa devera ser capaz de mostrar a fucha do joggador, mesmo que algum dado não tenha sido informado corretamente.
+
+104
+crie um programma que tenha a funcao leiaint(), que vai funcionar de forma semelhante a funcao input() do python, só que fazendo a validação para aceitar apenas um valor numérico.
+ex.: n = leiaint('Digite um n')
+
+105
+faca um programa que tenha uma funcao notas() que pode receber várias notas de aluno e vai retornar um dicionário com as seguintes informações:
+- Quantidade de notas
+- A maior nota
+- A menor nota
+- A média da turma
+- A situação (opcional)
+Adicione também a docstring da função.
+
+106
+faca um mini-sistema que utilize o interactive  help do Python. O usuário vai digitar o comando e o manual vai aparecer.
+Quando o usuário digitar a palavra 'FIM', o programa se encerrará.
+OBS: use cores.
