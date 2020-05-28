@@ -31,3 +31,7 @@ def resumo(preco, taxa, aumento):
     print(f'{"Metade do preço:":<20} {metade(preco,True):>15}')
     print(f'{taxa}{"% de aumento:":<18} {aumentar(preco,taxa,True):>15}')
     print(f'{aumento}{"% de Redução:":<18} {diminuir(preco,taxa,True):>15}')
+
+
+if __name__ == "__main__":
+    resumo(100, 15, 20)

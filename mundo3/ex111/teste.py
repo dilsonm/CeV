@@ -14,8 +14,9 @@ crie um pacote chamado utilidadescev que tenha dois módulos internos chamados m
 Transfira todas as funcoes utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
 '''
 # from moeda import dobrar, metade, aumentar, diminuir
-# import moeda
-from moeda import resumo
+# import moedareal import resumo
+from utilidadescev.real import resumo, moeda
 
 p = float(input('Digite o preço: R$ '))
 resumo(p, 10, 13)
+# print(moeda(150))

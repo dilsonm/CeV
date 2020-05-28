@@ -16,4 +16,4 @@ crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados m
 Transfira todas as funcoes utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
 
 112
-Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leia dineiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
+Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leia dinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
