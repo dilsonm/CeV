@@ -7,23 +7,26 @@ from lib.interface import *
 from lib.arquivo import *
 
 # programa principal
-
 arq = 'cursoemvideo.txt'
-if arquivoExiste(arq):
-    print('Arquivo aberto com sucesso')
-else:
-    print('Arquivo não encontrado.')
+if not arquivoExiste(arq):
     criarArquivo(arq)
 
 while True:
     opc = menu(['Ver pessoas cadastradas','Cadastrar nova pessoa','Sair do sistema'])
 
     if opc == 1:
-        verPessoas()
+        # Opção de listar o conteúdo do arquivo
+        lerarquivo(arq)
     elif opc == 2:
-        cadastrar()
+        # Opção de cadastrar uma nova pessoa
+        cabecalho('NOVAO CADASTRO')
+        nome = str(input('Nome: '))
+        idade = leiaint('Idade: ')
+        cadastrar(arq,nome,idade)
     elif opc == 3:
+        # Opção de sair do sistema
         sair()
         break
     else:
+        # Digitou uma opção errada do menu
         print('\033[31mDigite uma opção invalida!\033[m')

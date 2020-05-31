@@ -18,7 +18,8 @@ def linha(tam=42):
 
 def cabecalho(txt):
     linha()
-    print(f'{txt:^42}')
+    # print(f'{txt:^42}')
+    print(txt.center(42))
     linha()
 
 
@@ -35,11 +36,6 @@ def menu(lista):
 
 def verPessoas():
     cabecalho('Opção 1')
-
-
-def cadastrar():
-    cabecalho('Opção 2')
-
 
 def sair():
     cabecalho('Saindo do Sistema... Até Logo!')
